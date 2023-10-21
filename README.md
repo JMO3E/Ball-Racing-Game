@@ -7,4 +7,4 @@ practice the skills that we learned.
 ---
 
 ### Gameplay
-![Counting Prototype Video](Videos/Counting%20Prototype%20Game.mp4)
+![Counting Prototype Video](Videos/CountingPrototypeGame.gif)
